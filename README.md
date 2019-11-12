@@ -1,1 +1,2 @@
 # K-MEAN
+# K-MEDOIDS
